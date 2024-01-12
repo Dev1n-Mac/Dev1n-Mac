@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev1n-Mac
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently working in compliance and Devsecops
+- 🌱 I’m currently working in product security
 - 📫 How to reach me on LinkedIn at [
 ](https://www.linkedin.com/in/devin-mccullum-784a72207/)
 <!---
